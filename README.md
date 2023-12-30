@@ -40,7 +40,7 @@ This game is developed using C++ and Visual Studio 2020. Custom libraries are em
 
 ## Reflections 👨‍💻
 
-As the developer of Space Shooter, I've honed my skills in C++, 2D game engine development, and game UI/UX designs. This project demonstrates my proficiency in creating immersive gaming experiences, complete with engaging visuals, dynamic gameplay, and interactive elements.
+As the developer of Space Shooter, I've honed my skills in C++, 2D game engine development, and game UI/UX design. This project taught me how to improve my game dev workflow and C++ game engine, as well as create robust modules (SOLID/DRY) without compromising on immersive gaming experiences complete with engaging visuals, dynamic gameplay, and interactive elements.
 
 ---
 
