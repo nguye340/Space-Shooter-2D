@@ -2,6 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Space Shooter 🚀🌟👾
-description: Introducting the nostalgic 2D Space Shooter game where you blast through the cosmos, take down enemy ships, and avoid asteroids in this thrilling arcade adventure. Explore the development process behind the game, showcasing its 2D game engine (C++), custom libraries, and my passion for creating immersive gaming experiences. Upgrade your ship, grab power-ups, and set your sights on conquering the vastness of space!
-
+title: About Space Shooter 
+description: Explore the development process behind the nostalgic 2D Space Shooter game, showcasing its 2D game engine (C++), custom libraries, and my passion for creating immersive gaming experiences here! Visit my GitHub to download and play or find out about my other projects! 
