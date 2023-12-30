@@ -24,12 +24,15 @@ This game is developed using C++ and Visual Studio 2020. Custom libraries are em
 
 ## Screenshots 📸
 
+### Game Start
 ![Game Start](https://raw.githubusercontent.com/nguye340/Space-Shooter-2D/main/Screenshots/gameplay.png)
 *New game loaded with a random number of enemies, asteroids, and powerups*
 
+### Enemy AI
 ![Enemy AI](https://raw.githubusercontent.com/nguye340/Space-Shooter-2D/main/Screenshots/enemyAI.gif)
 *Enemy AI tracks player's movement and location to chase them*
 
+### Demo Gameplay
 ![Demo Gameplay](https://raw.githubusercontent.com/nguye340/Space-Shooter-2D/main/Screenshots/demo.gif)
 *Full demonstration of gameplay - controls, scores, and powerups system, as well as win/lose conditions*
 
