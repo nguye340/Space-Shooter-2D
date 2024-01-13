@@ -1,0 +1,25 @@
+﻿  Bonus.cpp
+  Button.cpp
+  Enemy.cpp
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\Enemy.cpp(14,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  GameOverState.cpp
+  GameState.cpp
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\GameState.cpp(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\GameState.cpp(46,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\GameState.cpp(336,46): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\GameState.cpp(338,45): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  healthKit.cpp
+  main.cpp
+  MainMenuState.cpp
+  PauseMenuPopupState.cpp
+  Player.cpp
+  ScreenState.cpp
+  Shield.cpp
+  Sprite.cpp
+C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\GEPGameEngine\Sprite.cpp(50,13): warning C4244: 'initializing': conversion from 'float' to 'Uint32', possible loss of data
+  SpriteEx.cpp
+  StateMachine.cpp
+  Generating Code...
+  LINK : C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\x64\Debug\GEPGameEngine.exe not found or not built by the last incremental link; performing full link
+  GEPGameEngine.vcxproj -> C:\Users\nguye\OneDrive - Sheridan College\Desktop\School Work\InfoSec\Winter2024\PORT-REF\Source code\x64\Debug\GEPGameEngine.exe
